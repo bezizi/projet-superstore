@@ -53,5 +53,11 @@ SQL (SQLite), Excel, Power BI
   des 80/20 ne s'applique pas strictement. À l'autre bout, Labels, Fasteners
   et Envelopes pèsent moins de 1 % chacune, ce qui pose la question de leur
   intérêt commercial.
+- **Clients : la moitié des clients génère plus des deux tiers du CA.**
+  Selon la segmentation RFM, les 252 Champions (32 % des clients) pèsent
+  43 % du CA. Le segment « À risque » (144 clients) est le plus intéressant :
+  ces clients ont un panier total moyen de 3 996, supérieur à celui des
+  Champions, mais n'ont pas commandé récemment. Ils représentent 25 % du CA
+  et sont la priorité d'une campagne de relance.
 ## Statut
 Projet en cours. Prochaines étapes : SQL avancé (RFM, top produits), Excel, dashboard Power BI.
