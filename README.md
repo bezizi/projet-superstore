@@ -26,7 +26,21 @@ SQL (SQLite), Excel, Power BI
 4. Contrôle : total des ventes identique entre la table brute et les tables propres
 
 ## Premiers résultats
-À compléter après les requêtes d'analyse.
+
+- **Catégories : la répartition est équilibrée.** Technology est en tête
+  avec 827 456 de CA (36,6 %), devant Furniture (32,2 %) et Office Supplies
+  (31,2 %). Office Supplies, pourtant la catégorie avec le plus de commandes
+  (3 676 contre 1 519 pour Technology), pèse moins en CA : ses produits
+  ont un prix unitaire plus faible.
+- **Régions : un net avantage pour l'Ouest et l'Est.** L'Ouest (710 220)
+  et l'Est (669 519) représentent environ 61 % du CA. Le Sud est la
+  région la plus faible (389 151, soit 17 %) avec 509 clients contre
+  681 à l'Ouest.
+- **Temps : une croissance forte depuis 2016.** Le CA passe de 479 856 en
+  2015 à 722 052 en 2018 (+50 %), après un léger recul en 2016 (−4 %).
+  Les meilleurs mois sont concentrés en fin d'année (novembre 2018,
+  décembre 2017, septembre et décembre 2018) : la saisonnalité est marquée
+  entre septembre et décembre.
 
 ## Statut
 Projet en cours. Prochaines étapes : SQL avancé (RFM, top produits), Excel, dashboard Power BI.
