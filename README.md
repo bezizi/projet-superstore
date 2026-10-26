@@ -41,6 +41,11 @@ SQL (SQLite), Excel, Power BI
   Les meilleurs mois sont concentrés en fin d'année (novembre 2018,
   décembre 2017, septembre et décembre 2018) : la saisonnalité est marquée
   entre septembre et décembre.
-
+- **Produits : un produit star en Technology.** Le copieur Canon imageCLASS 2200
+  génère à lui seul 61 600 de CA (environ 7 % de sa catégorie), soit 2,7 fois
+  plus que le deuxième produit de la catégorie. Les deux autres catégories
+  n'ont pas de produit aussi dominant : leurs 3 premiers produits pèsent
+  entre 7 % et 9 % du CA de la catégorie. Les ventes reposent donc sur un
+  catalogue large, avec une dépendance modérée à quelques produits.
 ## Statut
 Projet en cours. Prochaines étapes : SQL avancé (RFM, top produits), Excel, dashboard Power BI.
