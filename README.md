@@ -47,5 +47,11 @@ SQL (SQLite), Excel, Power BI
   n'ont pas de produit aussi dominant : leurs 3 premiers produits pèsent
   entre 7 % et 9 % du CA de la catégorie. Les ventes reposent donc sur un
   catalogue large, avec une dépendance modérée à quelques produits.
+  - **Sous-catégories : un CA réparti, avec une longue traîne.** Phones (14,5 %)
+  et Chairs (14,3 %) sont les deux premières, pour 28,8 % du CA à elles deux.
+  Il faut 9 sous-catégories sur 17 pour atteindre 80 % du CA : la règle
+  des 80/20 ne s'applique pas strictement. À l'autre bout, Labels, Fasteners
+  et Envelopes pèsent moins de 1 % chacune, ce qui pose la question de leur
+  intérêt commercial.
 ## Statut
 Projet en cours. Prochaines étapes : SQL avancé (RFM, top produits), Excel, dashboard Power BI.
