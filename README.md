@@ -13,10 +13,28 @@ SQL (SQLite), Excel, Power BI
 - Limite : pas de colonne profit ni remise, l'analyse porte sur le chiffre d'affaires
 
 ## Questions métier
-1. Quelles catégories et régions génèrent le plus de CA ?
-2. Comment évoluent les ventes dans le temps ?
-3. Quels clients sont les plus précieux ? (à venir)
-4. Quels sont les délais de livraison par mode ? (à venir)
+- **Catégories : répartition équilibrée.** Technology est en tête avec
+  827 456 de CA (36,6 %), devant Furniture (32,2 %) et Office Supplies
+  (31,2 %). Office Supplies a pourtant le plus de commandes (3 676 contre
+  1 519 pour Technology).
+- **Régions : avantage pour l'Ouest et l'Est.** L'Ouest (710 220) et l'Est
+  (669 519) représentent environ 61 % du CA. Le Sud est la région la plus
+  faible (389 151, soit 17 %).
+- **Temps : forte croissance depuis 2016.** Le CA passe de 479 856 en 2015
+  à 722 052 en 2018 (+50 %), après un léger recul en 2016 (-4 %). Les
+  meilleurs mois sont en fin d'année (novembre 2018 : 117 938).
+- **Produits : un produit star en Technology.** Le copieur Canon imageCLASS
+  2200 génère 61 600 de CA, soit 2,7 fois plus que le deuxième produit de
+  sa catégorie.
+- **Sous-catégories : CA réparti, longue traîne.** Phones (14,5 %) et Chairs
+  (14,3 %) sont en tête. Il faut 9 sous-catégories sur 17 pour atteindre
+  80 % du CA. Labels, Fasteners et Envelopes pèsent moins de 1 % chacune.
+- **Clients : la moitié des clients génère 68 % du CA.** Les 252 Champions
+  pèsent 43 % du CA. Les 144 clients « À risque » ont un CA moyen de 3 996,
+  supérieur à celui des Champions (3 869), mais n'ont pas commandé
+  récemment : ils représentent 25 % du CA.
+
+## Recommandation
 
 ## Méthodologie
 1. Import du CSV brut dans SQLite (table `commandes_brut`, jamais modifiée)
